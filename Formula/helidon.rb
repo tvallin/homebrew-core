@@ -1,10 +1,10 @@
 class Helidon < Formula
-  desc "Set of Java libraries for writing microservices that run on Netty"
+  desc "CLI to easily create a Helidon project by picking from a set of archetypes"
   homepage "https://helidon.io/"
-  url "file:///Users/tvallin/workspace/helidon-build-tools/cli/impl/target/distribution/helidon.zip"
+  url "https://search.maven.org/remotecontent?filepath=io/helidon/build-tools/cli/helidon-cli-impl/3.0.4/helidon-cli-impl-3.0.4.zip"
   version "3.0.0"
   # change to final sha256
-  sha256 "b9627751265a72a532a8bfc539e3386b5fc52bae8cd7ddd854b366b5f55d3c91"
+  sha256 "4eadf18d977c18858043700ea4745628c9620a73d96d47a6a4ba0a9fa407cdec"
   license "Apache-2.0"
 
   def install
