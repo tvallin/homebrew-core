@@ -1,5 +1,5 @@
 class Helidon < Formula
-  desc "CLI to easily create a Helidon project by picking from a set of archetypes"
+  desc "Command line tool for Helidon application development"
   homepage "https://helidon.io/"
   url "https://search.maven.org/remotecontent?filepath=io/helidon/build-tools/cli/helidon-cli-impl/3.0.4/helidon-cli-impl-3.0.4.zip"
   version "3.0.0"
